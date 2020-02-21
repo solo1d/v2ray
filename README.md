@@ -7,6 +7,7 @@ V2Ray底层 伪造的https协议
 
 
 使用 root 用户输入下面命令安装或卸载
+
 bash <(curl -s -L https://git.io/v2ray.sh)
 
 端口必须使用 443 端口.
